@@ -1,0 +1,6 @@
+@reactpersonaddress_HostAddress = http://localhost:5015
+
+GET {{reactpersonaddress_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
